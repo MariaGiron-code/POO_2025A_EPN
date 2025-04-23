@@ -1,3 +1,5 @@
+package Tarea2;
+
 import java.util.Scanner;
 public class Jugador {
         Scanner sc = new Scanner(System.in);
