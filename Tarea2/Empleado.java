@@ -1,4 +1,4 @@
-package Tarea2;
+package Tarea2;//esto es un paquete
 import java.util.Scanner;
 
 public class Empleado {
@@ -21,7 +21,7 @@ public class Empleado {
         Scanner sc = new Scanner(System.in);
         Empleado[] empleados = new Empleado[3];
 
-        // Pedir datos de los empleados
+        // Pedir datos de los empledos
         for (int i = 0; i < 2; i++) {
             empleados[i] = new Empleado();
 
