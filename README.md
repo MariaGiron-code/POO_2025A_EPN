@@ -1,32 +1,32 @@
-# 💻 Perfil Github de María
+# 💻 María Girón 
 
-¡¡Hola! Soy maria, una desarrolladora apasionada por el aprendizaje continúa y la creencial de soluciones tecnológicas que óptimas la productividad y mejoren la experiencia de usuario. Me encanta explorar Nueva.
+¡¡Hola! Soy maria, una desarrolladora apasionada por el aprendizaje contínuo y la creación de soluciones tecnológicas que optimizan la productividad y mejoran la experiencia de usuario. 
+Me encanta explorar nuevas tecnologías y habilidades de desarrollo ágil.
 
 ## 🛠️ Tecnologías y Habilidadas
-- **Lenguajes de Programació**: Python, Java, JavaScript
-- **Diseño de la Interfaz de Usuario**: Experiencia en CustomTkinter para aplicaciones de escritorio
-- **Bases de datos**: Fuerte Conocimento en entidades, Tablas y Claves Primarias
-- **Web de desarrollo**: Explorando Next.js y Google Sitios
- Productividad**
+- Lenguajes de Programación: Python, Java, JavaScript
+- Diseño de la Interfaz de Usuario: Experiencia en CustomTkinter para aplicaciones de escritorio.
+- Bases de datos: Fuerte Conocimento en entidades, Tablas y Claves Primarias en MySQL.
+- Web de desarrollo: Explorando Next.js, HTML  CSS
 
  🚀 Proyectos desestacados
-Aplicación para gestió de notas y tareas**
-Next.js Github Repo Explorer**
-Gestión de Calificaciones**
-Crud en java**
+Aplicación para gestión de notas y tareas para programadores junior.
+Next.js Github Repo Explorer
+Gestor de Calificaciones para una Institución educativa.
 
  📚 Aprendizaje y certificaciones
-Python y Github**
+Cursando una certificación en el uso de:
+Git y Github
 
  🌎 Idiomas
-español e inglés**
+Español: Nativo
+Inglés B2
 
- 📌 Metas una cortoconteria y larga plazo
   
   
 
 
- 📫 Contacto
+
 
 
 
